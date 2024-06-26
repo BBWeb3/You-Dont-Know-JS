@@ -1,0 +1,4 @@
+#Ignore The Following Files & Folders On Commit
+.git
+.vscode
+.pdf
